@@ -30,9 +30,9 @@ Features are the following:
 - `MonthlyCharges`: the amount charged to the customer monthly
 - `TotalCharges`: the total amount the customer paid
 
-And the Target:
+And the target:
 - `Churn`: whether the customer left or not (Yes, No)
 
 ## Files
 
-Source code availiable here : https://github.com/RomainC123/Eye-Tracking/blob/master/src/main.ipynb
+Source code availiable here : https://github.com/RomainC123/Customer-Churn/blob/master/src/main.ipynb
