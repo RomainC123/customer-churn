@@ -4,8 +4,6 @@
 
 ## Introduction
 
-Today, we will work on building a customer churn classifier.
-
 The dataset contains about 7000 customers with 19 features.
 
 Features are the following:
