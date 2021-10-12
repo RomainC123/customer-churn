@@ -4,6 +4,8 @@
 
 ## Introduction
 
+This project is trying to build a classifier of customer churn, which is about predicting whether or not a subscriber is likely to cancel its subscription.
+
 The dataset contains about 7000 customers with 19 features.
 
 Features are the following:
